@@ -10,7 +10,7 @@ Note: if there is nothing to sum, the sum is default to 0.
 
 # Sum of Positive
 
-This took me about 3 hours to complete. I ended up coming up with this solution by making a empty array `sumArr`, then checking if anything in that was positive and if that number in the array was positive to then push that number into the new array I declared`sumArr`. After I got all the positive numbers, I created the variable `sum` and return the sum. Implmented a for loop to go thru the `sumArr` and add it to that variable `sum` 
+I ended up coming up with this solution by making a empty array `sumArr`, then checking if anything in that was positive and if that number in the array was positive to then push that number into the new array I declared`sumArr`. After I got all the positive numbers, I created the variable `sum` and return the sum. Implmented a for loop to go thru the `sumArr` and add it to that variable `sum` 
 
 ```
 
@@ -30,6 +30,10 @@ function positiveSum(arr) {
     } else return 0;
   }
 
+
+
+I completed the challenge: 5
+I feel good about my code: 4
 ```
 
 
