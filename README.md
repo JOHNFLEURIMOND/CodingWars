@@ -1,4 +1,4 @@
-This project was done by [John Fleurimond](./SumOfPositive.png).
+This project was done by ![John Fleurimond](./SumOfPositive.png).
 
 ##Coding War:
 
